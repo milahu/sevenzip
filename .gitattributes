@@ -1,0 +1,4 @@
+*.7z -delta
+*.tar.xz -delta
+*.tar.bz2 -delta
+*.tar.gz -delta
